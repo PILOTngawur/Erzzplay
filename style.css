@@ -1,0 +1,48 @@
+.carousel-inner img {
+max-height: 300px; /* Sesuaikan ukuran maksimal yang diinginkan */
+object-fit: cover; /* Memotong gambar agar sesuai area */
+width: 100%; /* Pastikan gambar mengisi penuh lebar carousel */
+}
+
+.img-fixed {
+    width: 100%; /* Sesuaikan dengan lebar card */
+    height: 200px; /* Tinggi tetap */
+    object-fit: cover; /* Memotong gambar agar sesuai dengan dimensi */
+  }
+  .img-fixed-nav{
+    width: 100%; /* Sesuaikan dengan lebar card */
+    height: 200px; /* Tinggi tetap */
+    object-fit: cover; /* Memotong gambar agar sesuai dengan dimensi */
+  }
+  
+.nav-color{
+  background-color: rgb(180, 101, 255);
+}
+
+.custom-icon {
+  margin-right:8px; /* Jarak kiri dan kanan 10px */
+  font-size: 18px;
+}
+
+.text-link{
+  color: white;
+  text-decoration: none;
+}
+.text-link:hover {
+  color: whitesmoke;
+}
+
+.img-gem {
+  width: 100%; /* Sesuaikan dengan lebar card */
+  height: 50px; /* Tinggi tetap */
+  width: 50px;
+  object-fit: cover; /* Memotong gambar agar sesuai dengan dimensi */
+  margin-right: 10px;
+}
+.img-view {
+  width: 100%; /* Sesuaikan dengan lebar card */
+  height: 200px; /* Tinggi tetap */
+  width: 500px;
+  object-fit: cover; /* Memotong gambar agar sesuai dengan dimensi */
+  margin-right: 8px;
+}
